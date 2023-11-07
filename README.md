@@ -14,4 +14,4 @@ Caleb Sarmiento cts58@pitt.edu
 * [Allegheny County Park Features](https://data.wprdc.org/dataset/allegheny-county-park-features)
 
 ### Overview
-This repository contains the datasets and code used in determining the best neighborhood in Pittsburgh. The metric used to determine the best neighborhood was the affordance of outdoor recreational activites.
+This repository contains the datasets and code used in determining the best neighborhood in Pittsburgh. The metric used to determine the best neighborhood is the affordance of outdoor recreational activites.
