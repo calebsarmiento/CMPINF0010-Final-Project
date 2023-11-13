@@ -1,0 +1,29 @@
+_id,id,name,type,retired,water_source,capacity,image,neighborhood,council_district,ward,tract,public_works_division,pli_division,police_zone,fire_zone,latitude,longitude
+1,899591542,Ammon,Pool,,Pittsburgh Water and Sewer Authority,538000,https://tools.wprdc.org/images/pittsburgh/pools/Ammon.jpg,Bedford Dwellings,6,5,42003050900,3,5,2,2-5,40.44872797,-79.97832863
+2,1003800828,Banksville,Pool,,Pennsylvania American Water,166320,https://tools.wprdc.org/images/pittsburgh/pools/Banksville.jpg,Banksville,2,20,42003202300,5,20,6,4-9,40.41476605,-80.04055451
+3,1688544652,Beechview Spray Park,Spray Park,,Pennsylvania American Water,,https://tools.wprdc.org/images/pittsburgh/pools/Beechview_Spray_Park.jpg,Beechview,4,19,42003191600,5,19,6,4-28,40.414997,-80.01917271
+4,1533382756,Bloomfield,Pool,,Pittsburgh Water and Sewer Authority,335000,https://tools.wprdc.org/images/pittsburgh/pools/Bloomfield.jpg,Bloomfield,7,8,42003080200,2,8,5,3-1,40.46199728,-79.95331295
+5,1287441950,Burgwin Spray Park,Spray Park,,Pittsburgh Water and Sewer Authority,,https://tools.wprdc.org/images/pittsburgh/pools/Burgwin_Spray_Park.jpg,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40507306,-79.93689881
+6,168387727,Cowley Spray Park,Spray Park,,Pittsburgh Water and Sewer Authority,,https://tools.wprdc.org/images/pittsburgh/pools/Cowley_Spray_Park.jpg,Troy Hill,1,24,42003240600,1,24,1,1-2,40.4587465,-79.98836906
+7,1569871328,East Hills Spray Park,Spray Park,,Wilkinsburg Penn,,https://tools.wprdc.org/images/pittsburgh/pools/East_Hills_Spray_Park.jpg,East Hills,9,13,42003130600,2,13,5,3-19,40.45309924,-79.87103893
+8,1475037865,Highland - Children,Pool,,Pittsburgh Water and Sewer Authority,,https://tools.wprdc.org/images/pittsburgh/pools/Highland_-_Children.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.48201861,-79.91128327
+9,5446687,Highland - Main,Pool,,Pittsburgh Water and Sewer Authority,560242,https://tools.wprdc.org/images/pittsburgh/pools/Highland_-_Main.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.48217837,-79.91093059
+10,878134116,Homewood,Pool,,Pittsburgh Water and Sewer Authority,171075,https://tools.wprdc.org/images/pittsburgh/pools/Homewood.jpg,Homewood South,9,13,42003130300,2,13,5,3-17,40.45437043,-79.89988447
+11,2092220498,Jack Stack,Pool,,Pittsburgh Water and Sewer Authority,205800,https://tools.wprdc.org/images/pittsburgh/pools/Jack_Stack.jpg,Brighton Heights,1,27,42003270800,1,27,1,1-14,40.48689156,-80.03063539
+12,778775283,Magee,Pool,,Pittsburgh Water and Sewer Authority,195000,https://tools.wprdc.org/images/pittsburgh/pools/Magee.jpg,Greenfield,5,15,42003151700,3,15,4,2-15,40.42482159,-79.93700895
+13,23531050,McBride,Pool,,Pennsylvania American Water,18000,https://tools.wprdc.org/images/pittsburgh/pools/McBride.jpg,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.37039959,-79.90734332
+14,1622961249,Mellon Spray Park,Spray Park,,Pittsburgh Water and Sewer Authority,,https://tools.wprdc.org/images/pittsburgh/pools/Mellon_Spray_Park.jpg,Shadyside,8,7,42003070800,2,7,4,3-13,40.45402813,-79.91565022
+15,2077053611,Moore,Pool,,Pennsylvania American Water,417657,https://tools.wprdc.org/images/pittsburgh/pools/Moore.jpg,Brookline,4,19,42003191700,5,19,6,4-26,40.40559061,-80.01351737
+16,1029407685,Oliver,Pool,,Pennsylvania American Water,107000,https://tools.wprdc.org/images/pittsburgh/pools/Oliver.jpg,South Side Flats,3,17,42003170200,3,17,3,4-2,40.4296358,-79.98892565
+17,328662701,Ormsby,Pool,,Pittsburgh Water and Sewer Authority,205800,https://tools.wprdc.org/images/pittsburgh/pools/Ormsby.jpg,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42895819,-79.97411713
+18,1704750315,Phillips - Main,Pool,,Pittsburgh Water and Sewer Authority,224100,https://tools.wprdc.org/images/pittsburgh/pools/Phillips_-_Main.jpg,Carrick,4,29,42003290400,3,29,3,4-23,40.3920526,-79.99110606
+19,43656340,Ream,Pool,,Pittsburgh Water and Sewer Authority,356000,https://tools.wprdc.org/images/pittsburgh/pools/Ream.jpg,Mount Washington,2,19,42003190300,5,19,3,4-27,40.43083566,-80.0131146
+20,1747129029,Riverview,Pool,,Pittsburgh Water and Sewer Authority,205800,https://tools.wprdc.org/images/pittsburgh/pools/Riverview.jpg,Perry North,1,26,42003980400,1,26,1,1-15,40.47969654,-80.0184439
+21,1396040949,Schenley,Pool,,Pittsburgh Water and Sewer Authority,187600,https://tools.wprdc.org/images/pittsburgh/pools/Schenley.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43472249,-79.94701322
+22,976230017,Sheraden,Pool,,Pennsylvania American Water,278000,https://tools.wprdc.org/images/pittsburgh/pools/Sheraden.jpg,Sheraden,2,20,42003562500,5,20,6,1-16,40.45710391,-80.05985014
+23,927599833,Sue Murray,Pool,,Pittsburgh Water and Sewer Authority,271000,https://tools.wprdc.org/images/pittsburgh/pools/Sue_Murray.jpg,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45129011,-80.00150676
+24,1404087945,Warrington Spray Park,Spray Park,,Pittsburgh Water and Sewer Authority,,https://tools.wprdc.org/images/pittsburgh/pools/Warrington_Spray_Park.jpg,Beltzhoover,3,18,42003562400,5,18,3,4-5,40.42158984,-80.00094776
+25,558965267,West Penn,Pool,,Pittsburgh Water and Sewer Authority,215451,https://tools.wprdc.org/images/pittsburgh/pools/West_Penn.jpg,Polish Hill,7,6,42003060500,6,6,2,2-6,40.45528396,-79.96992958
+26,1702052317,Westwood,Pool,,Pennsylvania American Water,156840,https://tools.wprdc.org/images/pittsburgh/pools/Westwood.jpg,Westwood,2,28,42003563100,5,28,6,1-18,40.43081523,-80.04976187
+27,251269184,Arlington Spray Park,Spray Park,,Pennsylvania American Water,,https://tools.wprdc.org/images/pittsburgh/pools/Arlington_Spray_Park.jpg,South Side Slopes,3,16,42003160800,3,16,3,4-22,40.41781869,-79.97517362
+28,54343082,Paulson,Spray Park,,Pittsburgh Water and Sewer Authority,,https://tools.wprdc.org/images/pittsburgh/pools/Paulson.jpg,Lincoln-Lemington-Belmar,9,12,42003120300,2,12,5,3-15,40.46866404,-79.90085285
