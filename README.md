@@ -8,7 +8,7 @@ Caleb Sarmiento cts58@pitt.edu
 
 **park_features_analysis** - Caleb Sarmiento
 
-**other jupyter notebook** - Lyndsey Dippold
+**(other jupyter notebook)** - Lyndsey Dippold
 
 ### Dataset Links:
 * [Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality)
