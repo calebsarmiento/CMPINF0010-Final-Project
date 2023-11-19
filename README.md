@@ -6,7 +6,8 @@ Lyndsey Dippold led92@pitt.edu
 
 Caleb Sarmiento cts58@pitt.edu
 
-*Text saying which data analysis notebook belongs to who
+**park_features_analysis** - Caleb Sarmiento
+**other jupyter notebook** - Lyndsey Dippold
 
 ### Dataset Links:
 * [Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality)
