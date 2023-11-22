@@ -1,6 +1,6 @@
 # CMPINF0010-Final-Project
 
-### [Team Name], Final Project Group 25
+### Team Pandas, Final Project Group 25
 
 Lyndsey Dippold led92@pitt.edu
 
