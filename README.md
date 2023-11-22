@@ -6,9 +6,9 @@ Lyndsey Dippold led92@pitt.edu
 
 Caleb Sarmiento cts58@pitt.edu
 
-**park_features_analysis** - Caleb Sarmiento
-
 **(other jupyter notebook)** - Lyndsey Dippold
+
+**ParkFeaturesAnalysis.ipynb** - Caleb Sarmiento
 
 ### Dataset Links:
 * [Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality)
@@ -17,4 +17,4 @@ Caleb Sarmiento cts58@pitt.edu
 * [City of Pittsburgh Pools](https://data.wprdc.org/dataset/city-pools)
 
 ### Overview
-This repository contains the datasets and code used in determining the best neighborhood in Pittsburgh. The metric used to determine the best neighborhood is the affordance of outdoor recreational activites.
+This repository contains the datasets and code used in determining the best neighborhood in Pittsburgh. The metric used to determine the best neighborhood is the affordance of outdoor recreational activites. Basically, the neighborhood with parks that provide the most in terms of capability of outdoor activities is the best.
