@@ -2,9 +2,9 @@
 
 ### Team Pandas, Final Project Group 25
 
-Lyndsey Dippold led92@pitt.edu **AlleghenyCountyTrailsLocationsAnalysis.ipynb**
+Lyndsey Dippold led92@pitt.edu - **AlleghenyCountyTrailsLocationsAnalysis.ipynb**
 
-Caleb Sarmiento cts58@pitt.edu **AlleghenyCountyParkFeaturesAnalysis.ipynb**
+Caleb Sarmiento cts58@pitt.edu - **AlleghenyCountyParkFeaturesAnalysis.ipynb**
 
 ### Dataset Links:
 * [Allegheny County Trails Locations](https://data.wprdc.org/dataset/allegheny-county-trails-locations)
