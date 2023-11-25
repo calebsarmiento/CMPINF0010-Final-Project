@@ -6,9 +6,12 @@ Lyndsey Dippold led92@pitt.edu
 
 Caleb Sarmiento cts58@pitt.edu
 
-**(other jupyter notebook)** - Lyndsey Dippold
+**AlleghenyCountyTrailsLocationsAnalysis.ipynb** - Lyndsey Dippold
 
-**ParkFeaturesAnalysis.ipynb** - Caleb Sarmiento
+**CityofPittsburghPoolsAnalysis.ipynb**
+
+
+**AlleghenyCountyParkFeaturesAnalysis.ipynb** - Caleb Sarmiento
 
 ### Dataset Links:
 * [Allegheny County Trails Locations](https://data.wprdc.org/dataset/allegheny-county-trails-locations)
