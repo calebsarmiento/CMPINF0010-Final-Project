@@ -11,7 +11,6 @@ Caleb Sarmiento cts58@pitt.edu
 **ParkFeaturesAnalysis.ipynb** - Caleb Sarmiento
 
 ### Dataset Links:
-* [Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality)
 * [Allegheny County Trails Locations](https://data.wprdc.org/dataset/allegheny-county-trails-locations)
 * [Allegheny County Park Features](https://data.wprdc.org/dataset/allegheny-county-park-features)
 * [City of Pittsburgh Pools](https://data.wprdc.org/dataset/city-pools)
